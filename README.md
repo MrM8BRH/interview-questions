@@ -763,6 +763,8 @@ For further preparation, you might find the following resources useful:
 [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 
 ### Security
+[Red Team Interview Questions](https://github.com/HadessCS/Red-team-Interview-Questions)
+
 [Web AppSec Interview Questions](https://tib3rius.com/interview-questions)
 
 [Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)
